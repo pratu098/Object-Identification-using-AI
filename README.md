@@ -24,4 +24,4 @@ Install the required libraries using the following command:
 This project uses the pre-trained model provided by Keras. The model is based on the ImageNet dataset and has been trained on over 1 million images.
 
 ## Acknowledgments
-This project was inspired by the Keras documentation and the work of many researchers in the field of computer vision and deep learning. The web application was built using the Flask web framework.
+This project was inspired by the Keras documentation and the work of many researchers in the field of computer vision and deep learning. The web application was built using the Django web framework.
